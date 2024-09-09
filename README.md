@@ -1,8 +1,8 @@
-*Masaüstü Düzenleme Uygulaması*
+# Masaüstü Düzenleme Uygulaması
 
 Bu Python uygulaması, kullanıcıların masaüstü dosyalarını belirli kategorilere göre düzenlemelerine yardımcı olur. Uygulama, dosya türlerine göre masaüstündeki dosyaları otomatik olarak ilgili klasörlere taşır ve masaüstünü temiz bir görünüme kavuşturur.
 
-*Özellikler*
+# Özellikler
 
 Dosyaları türlerine (örneğin, belgeler, resimler, videolar, uygulamalar) göre otomatik olarak ayırır.
 
